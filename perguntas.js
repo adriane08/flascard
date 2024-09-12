@@ -1,13 +1,13 @@
 criaCartao(
-    'Programação',
-    'O que é Python?',
+    'Conceito',
+    'O que é o Movimento Negro?',
     'O Python é uma linguagem de programação'
 )
 
 criaCartao(
-    'Geografia',
-    'Qual a capital da França?',
-    'A capital da França é Paris'
+    'Leis',
+    'Cite ao menos uma lei conquistada pelo movimento?',
+    'Lei de Cotas, Lei que tornou racismo crime no  Brasil'
 )
 
 criaCartao(
