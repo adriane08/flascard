@@ -5,8 +5,8 @@ criaCartao(
 )
 
 criaCartao(
-    'Geografia',
-    'Qual a capital da França?',
+    'Objetivos',
+    'Cite alguns objetivos do movimento.',
     'A capital da França é Paris'
 )
 
