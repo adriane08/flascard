@@ -1,7 +1,7 @@
 criaCartao(
-    'Programação',
-    'O que é Python?',
-    'O Python é uma linguagem de programação'
+    'Conceito',
+    'O que é o movimento?',
+    'É o conjunto de movimentos sociais que atuam na luta contra o racismo, a discriminação e segregação racial, defendendo a igualdade social e a melhoria das condições de vida do povo negro'
 )
 
 criaCartao(
