@@ -18,6 +18,18 @@ criaCartao(
 
 criaCartao(
     'Pergunta 4',
-    'Como se diz oi em Inglês?',
-    'Oi em ingles é HI (RAI)'
+    'Cite um desafio do movimento',
+    'Racismo estrutural; Medidas trabalhistas e educacionais dificultam o acesso dos negros ao mercado de trabalho formal.'
+)
+
+criaCartao(
+'Pergunta 5',
+     'Qual lei que estabeleceu reserva de vagas para o engresso de pessoas negras?',
+    'Lei de cotas'
+)
+
+criaCartao(
+'Pergunta 6',
+     'Quais eram as formas de resistência dos africanos escravizados?
+    'Revoltas, fugas, formação de Quilombos, recusa a trabalhar e suicídio. '
 )
