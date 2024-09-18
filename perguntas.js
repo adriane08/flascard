@@ -30,6 +30,6 @@ criaCartao(
 
 criaCartao(
 'Pergunta 6',
-     'Quais eram as formas de resistência dos africanos escravizados?
+     'Quais eram as formas de resistência dos africanos escravizados?',
     'Revoltas, fugas, formação de Quilombos, recusa a trabalhar e suicídio. '
 )
