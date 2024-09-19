@@ -27,3 +27,11 @@ function criaCartao(categoria, pergunta, resposta) {
     container.appendChild(cartao)
 
 }
+const card = document.getElementById('card');
+const pergunta = document.getElementById('pergunta');
+const resposta = document.getElementById('resposta');
+
+card.addEventListener('click', () => {
+  pergunta.classList.toggle('hidden');
+  resposta.classList.toggle('hidden');
+});
