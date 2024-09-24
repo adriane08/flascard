@@ -44,15 +44,15 @@ body {
     position: absolute;
     margin: 0.6rem;
     border-radius: 0.6rem;
-    font-size: 25px;
+    font-size: 20px;
     backface-visibility: hidden;
 }
 
 .cartao__conteudo p {
-    margin-top: 1rem;
+    margin-top: 2rem;
     padding: 2rem;
-    margin-top: 1rem;
-    font-size: 20px;
+    margin-top: 2rem;
+    font-size: 25px;
 }
 
 .cartao__conteudo__pergunta p {
